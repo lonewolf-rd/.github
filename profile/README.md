@@ -16,7 +16,7 @@ Independent research and development in **natural language processing**, with a 
 
 ## Hugging Face
 
-- **Model**: [`morpheus-tr-50k`](https://huggingface.co/lonewolf-rd/morpheus-tr-50k) — Neural morpheme-aware tokenizer for Turkish
+- **Model**: [`morpheus-tr-50k`](https://huggingface.co/lonewolflab/Morpheus-TR-50K) — Neural morpheme-aware tokenizer for Turkish
 - **Live demo**: [`morpheus-tr-demo`](https://huggingface.co/spaces/lonewolf-rd/morpheus-tr-demo) — interactive segmentation
 
 ---
