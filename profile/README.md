@@ -24,10 +24,10 @@ Independent research and development in **natural language processing**, with a 
 ## Publications
 
 **2025**
-- Şakar, T., & Emekci, H. *Maximizing RAG efficiency: A comparative analysis of RAG methods.* **Natural Language Processing**, 31(1), Cambridge University Press. [[link](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85)]
+- Şakar, T., & Emekci, H. *Maximizing RAG efficiency: A comparative analysis of RAG methods.* **Natural Language Processing**, 31(1), Cambridge University Press. [link](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85)
 
-**2026 (forthcoming)**
-- Şakar, T. *Morpheus: A Morphology-Aware Neural Tokenizer and Word Embedder for Turkish.* arXiv preprint.
+**2026**
+- Şakar, T. *Morpheus: A Morphology-Aware Neural Tokenizer and Word Embedder for Turkish.* arXiv preprint. [Link](https://arxiv.org/abs/2606.18717)
 
 ---
 
@@ -47,7 +47,5 @@ Research as a solo practitioner: complete pipelines released as working code, no
 ---
 
 ## Connect
-
-- 🐦 [Twitter / X](https://twitter.com/) <!-- TODO: add handle -->
-- 💼 [LinkedIn](https://linkedin.com/in/) <!-- TODO: add profile -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/tolga-%C5%9Fakar/)
 - 📧 Open an issue on any repository for technical discussion
