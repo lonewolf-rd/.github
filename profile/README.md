@@ -8,7 +8,7 @@ Independent research and development in **natural language processing**, with a 
 
 | Repository | Description | Scope | Status |
 |---|---|---|---|
-| [**TurkishMorpheus**](https://github.com/lonewolf-rd/TurkishMorpheus) | **Morpheus** — neural morpheme-aware tokenizer **and word embedder** for Turkish. Lossless, low-BPC, morphology-aware, embedding-producing — the only such tokenizer usable in Turkish LLMs. | Research + Release | v4 complete, paper preprint forthcoming |
+| [**TurkishMorpheus**](https://github.com/lonewolf-rd/TurkishMorpheus) | **Morpheus** — neural morpheme-aware tokenizer **and word embedder** for Turkish. Lossless, low-BPC, morphology-aware, embedding-producing — the only such tokenizer usable in Turkish LLMs. | Research + Release | v4 complete, [Paper](https://arxiv.org/abs/2606.18717) |
 | [**CorpusCollector**](https://github.com/lonewolf-rd/CorpusCollector) | Reproducible Turkish corpus collection from Ekşisözlük + Dergipark + news sites. Used to build the Morpheus training corpus. | Tooling | Stable |
 | [**CogOS**](https://github.com/lonewolf-rd/CogOS) | Cognitive Operating System. | Research | Early |
 
